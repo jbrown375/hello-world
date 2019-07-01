@@ -1,3 +1,3 @@
 # hello-world
-This is my first repository
-I am doing this even though I don't know what I'm doing
+This is my first repository.
+I kind of know what's going here now.
